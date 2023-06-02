@@ -9,6 +9,7 @@ body{
 #main-body{
     margin: auto;
     padding-top: 2.5%;
+    padding-bottom: 2.5%;
     min-width: 400px;
     min-height: 500px;
     border-top-right-radius: .3rem;
